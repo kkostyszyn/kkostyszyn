@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # kalina kostyszyn, stony brook linguistics phd
-#### [**pronouns**: she/her/hers](https://pronoun.is/she)
+### [**pronouns**: she/her/hers](https://pronoun.is/she)
 
 - *interested in:* computational phonology, morphophonology, language learning models, natural language processing, ethical machine learning ✨
+- *currently working on:* models for learning underlying vowel-zero alternations. 
